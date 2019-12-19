@@ -1,0 +1,23 @@
+{
+  "name": "jquery-api-data-display",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandywadhwa/jquery-api-data-display.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandywadhwa/jquery-api-data-display/issues"
+  },
+  "homepage": "https://github.com/sandywadhwa/jquery-api-data-display#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
